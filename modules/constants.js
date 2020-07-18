@@ -4,10 +4,10 @@ const filename = 'fibonacci.txt';
 const successMessage = `File %s was created.`;
 
 
-//Exports
+// Exports
 module.exports = {
-    appTitle,
-    defaultCount,
-    filename,
-    successMessage
-}
+  appTitle,
+  defaultCount,
+  filename,
+  successMessage,
+};
